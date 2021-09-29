@@ -6,14 +6,18 @@ The platform is in the form of a web app which displays all the essential inform
 It also involves the implementation of a digital one identity, and improved airport operational efficiency using a private permissioned blockchain technology.
 
 ## Web App Screenshots
-### Dashboard Home Page
+### Dashboard Page
+#### Dashboard Home Page
 ![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/dashboard-1.jpeg)
 
-### Flight API to get live status of flight
+#### Flight API to get live status of flight
 ![Dashboard-2](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/dashboard-2.jpeg)
 
-### Weather and Currency API to get live status of destination for the user
+#### Weather and Currency API to get live status of destination for the user
 ![Dashboard-3](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/dashboard-3.jpeg)
+
+#### Announcements and Rewards
+![Dashboard-3](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/dashboard-4.jpeg)
 
 ## Required Tools and Technologies
 Frontend: 
