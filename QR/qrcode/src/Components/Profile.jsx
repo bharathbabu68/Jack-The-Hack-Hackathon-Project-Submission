@@ -160,7 +160,7 @@ class Profile extends Component{
                           <hr id="line-two-fs-box"/>
                       </div>
                       <div id="fstatus-loc2">
-                          <h1>BOM</h1>
+                          <h1>SYD</h1>
                       </div>
                       <div id="fs-loc1-desc">{this.state.user.From}</div>
                       <div id="fs-time-left-desc">2.5 hours</div>
