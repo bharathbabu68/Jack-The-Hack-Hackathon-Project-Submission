@@ -19,6 +19,39 @@ It also involves the implementation of a digital one identity, and improved airp
 #### Announcements and Rewards
 ![Dashboard-3](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/dashboard-4.jpeg)
 
+### QR Code Based Dining Platform
+
+#### QR Engine Page
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/qrcode-1.jpeg)
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/qrcode-2.jpeg)
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/qrcode-3.jpeg)
+
+### Food Court Page
+
+#### FoodCourt First Page
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/foodcourt-1.jpeg)
+
+#### Carousel to choose cuisine
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/foodcourt-2.jpeg)
+
+#### Receipt of Purchase
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/foodcourt-3.jpeg)
+
+### Duty Free Page
+
+#### DutyFree First Page
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/duty-free-1.jpeg)
+
+#### Carousel to choose category of product
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/duty-free-2.jpeg)
+
+#### Receipt of purchase from duty free store
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/duty-free-3.jpeg)
+
+### Forms Page
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/forms-1.jpeg)
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/forms-2.jpeg)
+
 ## Required Tools and Technologies
 Frontend: 
 - HTML, CSS, Javscript
