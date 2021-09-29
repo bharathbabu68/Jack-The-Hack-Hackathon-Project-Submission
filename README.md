@@ -6,7 +6,8 @@ The platform is in the form of a web app which displays all the essential inform
 It also involves the implementation of a digital one identity, and improved airport operational efficiency using a private permissioned blockchain technology.
 
 ## Demo Videos
-The demo videos of the web app and the blockchain based digital identity platform are present in the link below. Link: https://drive.google.com/drive/folders/1KH3-sauyhEmMxCWLtVOKc3gQ4Dg-mJd0
+- The demo videos of the web app and the blockchain based digital identity platform are present in the given link. Link: https://drive.google.com/drive/folders/1KH3-sauyhEmMxCWLtVOKc3gQ4Dg-mJd0
+- The powerpoint presentation involved with our idea submission is present in the given link. Link: https://docs.google.com/presentation/d/1GaDAuqKW3Ug3l-3lKf32xjz2vVJyw5qQ/edit?usp=sharing&ouid=106847231569991502067&rtpof=true&sd=true
 
 ## Web App Screenshots
 ### Dashboard Page
