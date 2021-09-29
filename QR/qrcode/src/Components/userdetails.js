@@ -27,7 +27,7 @@ var users=[
         Boardingtime:"22:30",
         Points:121,
         Scode:"MAA",
-        Dcode:"BOM"
+        Dcode:"SYD"
         
     }
 
