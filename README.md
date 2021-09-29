@@ -32,8 +32,7 @@ Blockchain
 2. Go to the asset-transfer-basic folder -> chaincode-javascript -> lib -> asset-transfer.js. Replace the asset-transfer.js file with the one in the current repository.
 3. Now follow the below listed commands. 
 
-### Commands
-Digital One Identity Demo – Adani Digital
+## Commands
 #### Start Network
 ./network.sh up
 ./network.sh createChannel -c airport-channel
