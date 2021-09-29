@@ -74,6 +74,7 @@ Blockchain
 5. Go to the respective folder and use command npm-start
 
 
+# Digital One Identity Application Using Hyperledger Fabric Blockchain
 ## Steps to Run the Hyperledger Fabric Application
 1. Download and install the latest release of hyperledger fabric
 2. Go to the asset-transfer-basic folder -> chaincode-javascript -> lib -> asset-transfer.js. Replace the asset-transfer.js file with the one in the current repository.
