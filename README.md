@@ -5,6 +5,9 @@ Our project involves the implementation of a seamless platform for the passenger
 The platform is in the form of a web app which displays all the essential information pertaining to the travel of the passenger, and with features to ease his experience.
 It also involves the implementation of a digital one identity, and improved airport operational efficiency using a private permissioned blockchain technology.
 
+## Web App Screenshots
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/dashboard-1.jpeg)
+
 ## Required Tools and Technologies
 Frontend: 
 - HTML, CSS, Javscript
