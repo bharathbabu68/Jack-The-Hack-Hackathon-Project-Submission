@@ -35,7 +35,7 @@ It also involves the implementation of a digital one identity, and improved airp
 ![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/foodcourt-2.jpeg)
 
 #### Receipt of Purchase
-![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/foodcourt-3.jpeg)
+![Dashboard-1](https://github.com/suriyaa333/Jack-The-Hack-Hackathon-Project-Submission/blob/master/Screenshots/Web%20App/food-court-3.jpeg)
 
 ### Duty Free Page
 
