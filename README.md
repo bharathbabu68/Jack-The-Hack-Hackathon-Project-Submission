@@ -19,7 +19,7 @@ Blockchain
 - Node JS
 - Docker
 
-## Steps to Run the Web Application
+# Steps to Run the Web Application
 1. Install NodeJs, CreateReactApp
 2. Install React-Router-DOM
 3. Install ReactBootstrap
