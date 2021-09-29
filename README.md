@@ -18,3 +18,10 @@ Blockchain
 - Hyperledger Fabric
 - Node JS
 - Docker
+
+## Steps to Run the Application
+1. Install NodeJs, CreateReactApp
+2. Install React-Router-DOM
+3. Install ReactBootstrap
+4. Install Router-DOM
+5. Go to the respective folder and use command npm-start
