@@ -1,9 +1,9 @@
 # Jack-The-Hack Hackathon Project Submission
 
 ## About the Project
-Our project involves the implementation of a seamless platform for the passenger to improve his digital experience at the airport. 
-The platform is in the form of a web app which displays all the essential information pertaining to the travel of the passenger, and with features to ease his experience.
-It also involves the implementation of a digital one identity, and improved airport operational efficiency using a private permissioned blockchain technology.
+- Our project involves the implementation of a seamless platform for the passenger to improve his digital experience at the airport. 
+- The platform is in the form of a web app which displays all the essential information pertaining to the travel of the passenger, and with features such as QR code based contactless dining and e-commerce based duty free platform to improve his airport experience.
+- It also involves the implementation of a digital one identity using private permissioned blockchain technology - Hyperledger Fabric to develop a highly secure and efficient identity verification system with smart contract based checks conducted at each stage of the airport journey to improve the efficiency of airport operations.
 
 ## Demo Videos
 - The demo videos of the web app and the blockchain based digital identity platform are present in the given link. Link: https://drive.google.com/drive/folders/1KH3-sauyhEmMxCWLtVOKc3gQ4Dg-mJd0
