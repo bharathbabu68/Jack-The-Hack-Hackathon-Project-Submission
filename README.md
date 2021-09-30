@@ -93,7 +93,11 @@ Blockchain
 2. Install React-Router-DOM
 3. Install ReactBootstrap
 4. Install Router-DOM
-5. Go to the  Jack-The-Hack-Hackathon-Project-Submission/frontend  and use command 'npm-start'
+5. Install Bootstrap v4
+6. Install react-qr-reader
+7. Install other dependencies if prompted
+8. Go to the  Jack-The-Hack-Hackathon-Project-Submission/frontend  and use the command 'npm-start'
+
 
 ##
 ##
