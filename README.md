@@ -89,23 +89,26 @@ Blockchain
 - Docker
 
 ## Steps to Run the Web Application
-1. Install NodeJs, CreateReactApp
-2. Install React-Router-DOM
-3. Install ReactBootstrap
-4. Install Router-DOM
-5. Install Bootstrap v4
-6. Install react-qr-reader
-7. Install other dependencies if prompted
-8. Go to the  Jack-The-Hack-Hackathon-Project-Submission/frontend  and use the command 'npm-start'
-
+1.	Install NodeJs, CreateReactApp
+2.	Install React-Router-DOM
+3.	Install ReactBootstrap
+4.	Install Router-DOM
+5.	Install Bootstrap v4
+6.	Install react-qr-reader
+7.	Install other dependencies if prompted
+8.	Go to the  Jack-The-Hack-Hackathon-Project-Submission/frontend  and use the command 'npm-start'
 
 ##
 ##
 # Digital One Identity Application Using Hyperledger Fabric Blockchain
 ## Steps to Run the Hyperledger Fabric Application
-1. Download and install the latest release of hyperledger fabric
-2. Go to the asset-transfer-basic folder -> chaincode-javascript -> lib -> asset-transfer.js. Replace the asset-transfer.js file with the one in the current repository.
-3. Now follow the below listed commands. 
+1.	Download and install the latest release of hyper ledger fabric
+2.	Download Docker and its dependencies
+3.	Once all the packages have been downloaded, go to the asset-transfer-basic folder -> chaincode-javascript -> lib -> asset-transfer.js. Replace the asset-transfer.js file with the one in the current repository.
+4.	Redirect to test network directory
+5.	Bring up the Hyperledger network using ./network.sh up
+6.	Follow the listed commands from the Github repository link to create a channel and deploy chaincode.
+7.	The Chaincode can now be invoked by both peers to carry out identity verifications at each stage of the airport journey.
 
 ## Commands
 #### Start Network
