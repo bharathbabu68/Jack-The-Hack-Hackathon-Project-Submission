@@ -6,7 +6,7 @@
 - It also involves the implementation of a digital one identity using private permissioned blockchain technology - Hyperledger Fabric to develop a highly secure and efficient identity verification system with smart contract based checks conducted at each stage of the airport journey to improve the efficiency of airport operations.
 
 ## Demo Videos
-- The demo videos of the web app and the blockchain based digital identity platform are present in the given link. Link: https://drive.google.com/drive/folders/1KH3-sauyhEmMxCWLtVOKc3gQ4Dg-mJd0
+- The working demo videos of the web app and the blockchain based digital identity platform are present in the given link. Link: https://drive.google.com/drive/folders/1KH3-sauyhEmMxCWLtVOKc3gQ4Dg-mJd0
 - The powerpoint presentation involved with our idea submission is present in the given link. Link: https://docs.google.com/presentation/d/1GaDAuqKW3Ug3l-3lKf32xjz2vVJyw5qQ/edit?usp=sharing&ouid=106847231569991502067&rtpof=true&sd=true
 - The video explanation of our project presentation is present in the given link. Link: https://drive.google.com/file/d/1nz0xPWN_I6hjqR_nugiuqZezw7Ltp9lD/view?usp=sharing
 
