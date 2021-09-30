@@ -8,6 +8,7 @@
 ## Demo Videos
 - The demo videos of the web app and the blockchain based digital identity platform are present in the given link. Link: https://drive.google.com/drive/folders/1KH3-sauyhEmMxCWLtVOKc3gQ4Dg-mJd0
 - The powerpoint presentation involved with our idea submission is present in the given link. Link: https://docs.google.com/presentation/d/1GaDAuqKW3Ug3l-3lKf32xjz2vVJyw5qQ/edit?usp=sharing&ouid=106847231569991502067&rtpof=true&sd=true
+- The video explanation of our project presentation is present in the given link. Link: https://drive.google.com/file/d/1nz0xPWN_I6hjqR_nugiuqZezw7Ltp9lD/view?usp=sharing
 
 ## Web App Screenshots
 ### Dashboard Page
@@ -92,7 +93,7 @@ Blockchain
 2. Install React-Router-DOM
 3. Install ReactBootstrap
 4. Install Router-DOM
-5. Go to the Jack-The-Hackathon-Project-Submission/frontend folder and use command 'npm-start'
+5. Go to the QR/qrcode folder and use command 'npm-start'
 
 ##
 ##
